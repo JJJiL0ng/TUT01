@@ -93,4 +93,5 @@ console.log("Hello, World!");
 
 귀여운 고양이 이미지
 
-![귀여운 고양이](https://placehold.co/600x400)
+![귀여운 뱁새](https://img1.daumcdn.net/thumb/R720x0/?fname=http://t1.daumcdn.net/news/201612/13/joongang/20161213180238876aiua.jpg)
+
